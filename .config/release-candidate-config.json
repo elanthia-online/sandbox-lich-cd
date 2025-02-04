@@ -10,7 +10,8 @@
       "draft": false,
       "prerelease": true,
       "versioning": "prerelease",
-      "include-component-in-tag": false
+      "include-component-in-tag": false,
+      "include-v-in-tag": true
     }
   }
 }
