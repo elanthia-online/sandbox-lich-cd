@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.1](https://github.com/elanthia-online/sandbox-lich-cd/compare/v1.0.0...v1.0.1) (2025-02-04)
+
+
+### Bug Fixes
+
+* seed candidate manifest; ([22a7af9](https://github.com/elanthia-online/sandbox-lich-cd/commit/22a7af9767907ac8a8b38fe92ad3cd86b58d20fc))
+* try simple 2; ([ea163a4](https://github.com/elanthia-online/sandbox-lich-cd/commit/ea163a4b33d556e54e3eeee3def1737aa877c250))
+* try simple; ([19a945c](https://github.com/elanthia-online/sandbox-lich-cd/commit/19a945c7e440782bbe6a7e492523adc262071969))
+
 ## 1.0.0 (2025-02-04)
 
 
