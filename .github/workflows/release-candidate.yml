@@ -1,0 +1,19 @@
+name: release/candidate
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release-please-rc:
+    permissions:
+      contents: write
+      pull-requests: write
+      id-token: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: googleapis/release-please-action@v4
+        with:
+          release-type: ruby
+          config-file: .cd/release-candidate-config.json
