@@ -13,7 +13,8 @@ jobs:
       id-token: write
     runs-on: ubuntu-latest
     steps:
-      - uses: googleapis/release-please-action@v4.1.1
+      - uses: googleapis/release-please-action@v4.1.3
         with:
           release-type: ruby
-          config-file: .config/release-candidate-config.json
+          config-file: .config/candidate/config.json
+          manifest-file: .config/candidate/manifest.json

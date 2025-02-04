@@ -1,8 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "packages": {
-    "lib": {
-      "changelog-path": "CHANGELOG.md",
+    ".": {
       "release-type": "ruby",
       "prerelease-type": "rc",
       "bump-minor-pre-major": false,
