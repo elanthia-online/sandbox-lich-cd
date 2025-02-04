@@ -3,7 +3,7 @@
   "packages": {
     ".": {
       "changelog-path": "CHANGELOG.md",
-      "release-type": "node",
+      "release-type": "ruby",
       "prerelease-type": "rc",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
